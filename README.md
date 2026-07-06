@@ -29,7 +29,7 @@ quantium-retail-analytics/
 │
 ├── data/
 ├── notebooks/
-├── reports/
+├── report/
 ├── images/
 │   ├── customer_analysis/
 │   ├── trial_store_analysis/
